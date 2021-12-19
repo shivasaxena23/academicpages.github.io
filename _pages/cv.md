@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Computer Science and Engineering, R.V. College of Engineering, 2016
+* M.Eng. in Electrical and Computer Engineering (Data Analytics), University of Toronto, 2020
+* Ph.D in Distributed Machine Learning, University of Toronto, 2025 (expected)
 
 Work experience
 ======
